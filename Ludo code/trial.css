@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body, html{
+    height: 100%;
+    width: 100%;
+    scroll-behavior: smooth;
+}
+#orange{
+    height: 900px;
+    width: 100%;
+    background-color: orange;
+}
+#green{
+    height: 900px;
+    width: 100%;
+    background-color: green;
+}
+#yellow{
+    height: 900px;
+    width: 100%;
+    background-color: yellow;
+}
+#red{
+    height: 900px;
+    width: 100%;
+    background-color: red;
+}
